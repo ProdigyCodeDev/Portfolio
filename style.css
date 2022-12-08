@@ -7,11 +7,11 @@ font-family: 'Poppins', sans-serif;
 
 
 section {
-    height: 500px;
+
 
     background-color: white;
 
-    border: solid black 1px;
+    
 }
 
 li{
@@ -108,11 +108,53 @@ font-weight:300;
 
 .button:hover{
     background-color: #ef744b;
-    color: #808080;
+  
 }
 
 
+.button:active{
+    background-color: #a9a9a9;
+    color: #808080;
+}
+
 .logo{
     height:80px;
-    margin: 30px;
+    margin: 0px;
+}
+
+
+
+
+.sub-section{
+    display:flex;
+    justify-content: space-around;
+    padding: 80px;
+}
+
+h2{
+    font-size: 50px;
+}
+
+
+.socials{
+    padding-bottom: 200px;
+}
+
+
+
+.social{
+    margin: 20px;
+}
+
+.headshot{
+    width: 300px;
+    border-radius: 300px;
+}
+
+
+
+.headshot-container{
+    display: flex;
+    align-items: center;
+
 }
