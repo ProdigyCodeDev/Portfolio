@@ -158,3 +158,51 @@ h2{
     align-items: center;
 
 }
+
+
+.project-card{
+    width: 300px;
+    height: 500px;
+    box-shadow: 5px 5px 20px grey;
+}
+
+.project-container{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+.sub-section-alternative{
+    display: flex;
+    flex-direction:column;
+    text-align: center;
+    padding: 80px;
+}
+
+
+
+.subtext{
+    font-size: 50px;
+    font-weight: 300;
+}
+
+
+
+.project-link{
+    text-decoration: none;
+    color:#ef744b;
+}
+
+
+.project-image{
+    margin-top: 25px;
+    width: 250px;
+    border-radius: 125px;
+}
+
+
+hr{
+    margin-left: 20px;
+    margin-right: 20px;
+}
