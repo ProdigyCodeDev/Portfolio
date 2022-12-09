@@ -206,3 +206,16 @@ hr{
     margin-left: 20px;
     margin-right: 20px;
 }
+
+footer{
+    color: white;
+    text-align: center;
+}
+
+h3{
+    padding-top: 10%;
+}
+
+a{
+    text-decoration: none;
+}
